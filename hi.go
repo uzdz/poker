@@ -1,4 +1,4 @@
-package uzdz_mod
+package uzdz
 
 import "fmt"
 
