@@ -1,4 +1,4 @@
-package uzdz
+package say
 
 import "fmt"
 
