@@ -1,3 +1,3 @@
-module github.com/uzdz/poker/v2
+module github.com/uzdz/poker
 
 go 1.12
